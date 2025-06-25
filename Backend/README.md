@@ -39,7 +39,7 @@ A simple and professional Django web application to **split group expenses** fai
 
 ### Screenshots
 <p align="center">
-  <img src="Expenseshare.png" width="300" alt="Expenseshare">
+  <img src="Expenseshare.png" width="700" alt="Expenseshare">
 </p>
 
 ---
