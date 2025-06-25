@@ -1,7 +1,7 @@
 # <h1 align="center"> Group Budget Splitter </h1>
 
 <p align="center">
-  <img src="Expenseshare-logo.png" width="300" alt="Expenseshare-logo">
+  <img src="Expenseshare-logo.png" width="500" alt="Expenseshare-logo">
 </p>
 
 
@@ -129,7 +129,7 @@ A simple and professional Django web application to **split group expenses** fai
 
 ---
 
-### # Credits
+### Credits
 
 Built with using Django by **Md Rakibul Hassan**
 
